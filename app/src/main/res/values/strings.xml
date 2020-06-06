@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parameters</string>
+    <string name="et_name_String">Name</string>
+    <string name="btn_send">Send</string>
+    <string name="tv_helloName">Hello </string>
+    <string name="btn_return">Return</string>
+</resources>
